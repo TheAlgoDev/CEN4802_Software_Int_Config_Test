@@ -8,6 +8,13 @@ and one to display the results of the first method
 */
 
 public class sequenceFibonacci {
+    /**
+     * Calculates the Fibonacci number at the given index using recursion.
+     *
+     * @param n the index of the Fibonacci sequence for which the value is to be calculated.
+     *          It must be a non-negative integer.
+     * @return the Fibonacci number at the specified index.
+     */
     public static int fibonacci(int n) {
         if (n == 0) {
             return 0;
