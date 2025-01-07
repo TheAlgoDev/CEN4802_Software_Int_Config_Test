@@ -1,8 +1,10 @@
 /*
 Brent Thompson
-CEN4802 Software
+CEN4802 Software Integration, Configuration, and Testing
+January 7, 2025
 
 This class contains two methods, one to calculate the value at an index of the Fibonacci Secuence,
+and one to display the results of the first method
 */
 
 public class sequenceFibonacci {
